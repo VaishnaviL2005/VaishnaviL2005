@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavil2005&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavil2005" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VaishnaviL2005](https://github.com/VaishnaviL2005)
 
