@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Lakade</h1>
-<h3 align="center">Passionate beginner developer diving into the world of web development</h3>
+<h3 align="center">Passionate about building scalable backend solutions and exploring intelligent systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavil2005&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavil2005" /> </p>
 
-- 🌱 I’m currently learning **JS**
+- 🌱 Currently diving deep into **FastAPI** to build fast, scalable backend solutions.
 
 - 👨‍💻 All of my projects are available at [https://github.com/VaishnaviL2005](https://github.com/VaishnaviL2005)
 
