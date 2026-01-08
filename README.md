@@ -51,6 +51,10 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavil2005&show_icons=true&locale=en" alt="vaishnavil2005" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavil2005&show_icons=true&theme=default" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavil2005&" alt="vaishnavil2005" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavil2005&theme=default" />
+</p>
